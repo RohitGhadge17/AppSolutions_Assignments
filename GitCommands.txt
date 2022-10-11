@@ -1,0 +1,15 @@
+Git commands:
+
+git init :- To initialize the local repository.
+
+git clone https://github.com/RohitGhadge17/AppSolutions_Assignments.git  :- to clone the git repository
+
+git status :- check the status of the files in repo
+
+git add <filename> :- add file to the staging area
+
+git add . :- adds all the files to the staging area
+
+git commit -m "message" : commit the changes
+
+git push :- to push the files to repository

@@ -1,0 +1,5 @@
+How to start react app
+
+1. npx create-react-app <appname> to create a new react app.
+
+2. After the app has been created run command <npm start> and the app starts
