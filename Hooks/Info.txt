@@ -1,0 +1,3 @@
+To start the project first run 'npm init' command.
+
+After the node modules are installed run 'npm start' to start the app.
